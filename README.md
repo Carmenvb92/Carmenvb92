@@ -1,14 +1,27 @@
-<h1 align="center"> Carmen Villanueva </h1>
+<h1 align="center"><b>Hi , I'm Carmen Villanueva </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Qwitcher+Grypen&size=50&pause=1000&color=F77EB4&center=true&random=true&width=435&lines=Data+Scientist"></a>
+</p>
+<!-- About me -->
+
+## About me
+Data Analyst 
+
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> Skills </h2>
 
 
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+<p align="center">
+<a href = "https://www.linkedin.com/in/carmen-villanueva-borja/"> <img src="https://skillicons.dev/icons?i=linkedin"  /></a>
+<a href = "mailto:carmenvb92@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail"  /></a>
+</p>
 
-## Contact me
-
-<a href="https://www.linkedin.com/in/carmen-villanueva-borja/" target="_blank">
-<img src=https://img.shields.io/badge/Linkedin-Blue?style=plastic&logo=linkedin&logoColor=blue&logoSize=auto&labelColor=Blue&color=white&cacheSeconds=3600&link=www.linkedin.com%2Fin%2Fcarmen-villanueva-borja />
-
-<a href="mailto:carmenvb92@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-Red?style=plastic&logo=Gmail&logoColor=Red&logoSize=auto&labelColor=Red&color=white&cacheSeconds=3600 />
 
 <!--
 **Carmenvb92/Carmenvb92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
