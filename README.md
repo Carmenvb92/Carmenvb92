@@ -8,7 +8,7 @@
 <img src=https://img.shields.io/badge/Linkedin-Blue?style=plastic&logo=linkedin&logoColor=blue&logoSize=auto&labelColor=Blue&color=white&cacheSeconds=3600&link=www.linkedin.com%2Fin%2Fcarmen-villanueva-borja />
 
 <a href="mailto:carmenvb92@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-Red?style=plastic&logo=Gmail&logoColor=Red&logoSize=auto&labelColor=Red&color=white&cacheSeconds=3600&link=carmenvb92%40gmail.com />
+<img src=https://img.shields.io/badge/Gmail-Red?style=plastic&logo=Gmail&logoColor=Red&logoSize=auto&labelColor=Red&color=white&cacheSeconds=3600 />
 
 <!--
 **Carmenvb92/Carmenvb92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
